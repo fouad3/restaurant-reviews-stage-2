@@ -30,7 +30,7 @@ Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd0
 1-clone or download this repository
 
 2-run the development local API server by using the following commands:
-
+.
       -Navigate to the server folder:
           ```
           cd restaurant-reviews-stage-2/server
@@ -49,7 +49,7 @@ Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd0
           ```
       
 3-run the app by using the following commands:
-
+.
       -Navigate to the project folder:
           ```
           cd restaurant-reviews-stage-2
@@ -64,12 +64,11 @@ Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd0
           ```
       
  4-prepare the app for production by using the following command:
- 
+ .
       -Navigate to the project folder:
           ```
           cd restaurant-reviews-stage-2
           ```
-
       -Start the production process:
           ```
           gulp build
