@@ -27,7 +27,7 @@ Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd0
 
 ## How to Run Project
 
-1. clone or download this repository
+1. clone or download this repository.
 
 2. run the development local API server by using the following commands:
       1. Navigate to the server folder:
@@ -61,7 +61,7 @@ Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd0
           gulp
           ```
       
- 4. prepare the app for production by using the following command:
+ 4. prepare the app for production by using the following commands:
  .
       1. Navigate to the project folder:
           ```
@@ -73,7 +73,7 @@ Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd0
           ```
 
 
-### Attribution
+## Attribution
 * [Map Box API](https://www.mapbox.com/install/)
 * [leafletjs](https://leafletjs.com/)
 * [WICG/focus-visible](https://github.com/WICG/focus-visible)
