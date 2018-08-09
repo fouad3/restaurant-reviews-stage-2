@@ -30,47 +30,47 @@ Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd0
 1-clone or download this repository
 
 2-run the development local API server by using the following commands:
-  #### Navigate to the server folder:
-      ```
-      cd restaurant-reviews-stage-2/server
-      ```
-  #### Install server dependancies:
-      ```
-      npm i
-      ```
-  #### Install Sails.js globally:
-      ```
-      npm i sails -g
-      ```
-  #### Start the server:
-      ```
-      node server
-      ```
+      -Navigate to the server folder:
+          ```
+          cd restaurant-reviews-stage-2/server
+          ```
+      -Install server dependancies:
+          ```
+          npm i
+          ```
+      -Install Sails.js globally:
+          ```
+          npm i sails -g
+          ```
+      -Start the server:
+          ```
+          node server
+          ```
       
 3-run the app by using the following commands:
-  #### Navigate to the project folder:
-      ```
-      cd restaurant-reviews-stage-2
-      ```
-  #### Install app dependancies:
-      ```
-      npm i
-      ```
-  #### Start the app:
-      ```
-      gulp
-      ```
+      -Navigate to the project folder:
+          ```
+          cd restaurant-reviews-stage-2
+          ```
+      -Install app dependancies:
+          ```
+          npm i
+          ```
+      -Start the app:
+          ```
+          gulp
+          ```
       
  4-prepare the app for production by using the following command:
-  #### Navigate to the project folder:
-      ```
-      cd restaurant-reviews-stage-2
- 
- 
-  #### Start the production process:
-      ```
-      gulp build
-      ```
+      -Navigate to the project folder:
+          ```
+          cd restaurant-reviews-stage-2
+          ```
+
+      -Start the production process:
+          ```
+          gulp build
+          ```
 
 
 ### Attribution
