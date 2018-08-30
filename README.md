@@ -10,7 +10,7 @@
 
 ## Description
 took the responsive, accessible design built in [stage one](https://github.com/fouad3/restaurant-reviews-stage-1) and connected it to an [external server](https://github.com/udacity/mws-restaurant-stage-2). used asynchronous JavaScript through fetch() API to request JSON data from the server. stored the data received from the server in an offline database using IndexedDB, which will create an app shell architecture. Finally, used Gulp build tool to automate time-consuming tasks in  development workflow, optimize the site to meet performance benchmarks and automate the process of converting the development code into streamlined production-ready code, this project is a part of the Udacity's [Mobile Web Specialist
-Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024).
+Nanodegree](https://in.udacity.com/course/mobile-web-specialist-nanodegree--nd024).
 
 
 ## Project Folder Structure
